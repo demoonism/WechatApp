@@ -1,0 +1,261 @@
+<PlaceSearchResponse> 
+  <status>OK</status>
+  <results>
+			<result>
+			<name>中国工商银行东长安街支行</name>
+			<location>
+				<lat>39.915891</lat>
+				<lng>116.41867</lng>
+			</location>
+							<address>东城区东长安街1号东方广场西三办公楼1楼</address>
+													<uid>a025683c73033c35a21de987</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=a025683c73033c35a21de987&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国建设银行前门支行</name>
+			<location>
+				<lat>39.905802</lat>
+				<lng>116.417939</lng>
+			</location>
+							<address>西打磨厂街1号</address>
+										<telephone>(010)67083850</telephone>
+										<uid>b343b5c9aab2fb7f410245c7</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=b343b5c9aab2fb7f410245c7&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                        
+		</result>
+			<result>
+			<name>交通银行北京崇文门支行</name>
+			<location>
+				<lat>39.903238</lat>
+				<lng>116.420975</lng>
+			</location>
+							<address>北京市崇文区东兴隆街56号</address>
+										<telephone>(010)67029080</telephone>
+										<uid>e60c93254d3b1e9b9968b4c4</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=e60c93254d3b1e9b9968b4c4&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,崇文门</tag>
+            
+		</result>
+			<result>
+			<name>中国工商银行北京正义路支行</name>
+			<location>
+				<lat>39.909076</lat>
+				<lng>116.413988</lng>
+			</location>
+							<address>东城区正义路大街30号</address>
+										<telephone>(010)65239839</telephone>
+										<uid>f5b4b9d3567936d588f15d2d</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=f5b4b9d3567936d588f15d2d&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国邮政储蓄银行和平门支行</name>
+			<location>
+				<lat>39.905604</lat>
+				<lng>116.392121</lng>
+			</location>
+							<address>前门西大街12号</address>
+										<telephone>(010)63175392</telephone>
+										<uid>bd770ee4af8ffcb9455726bc</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=bd770ee4af8ffcb9455726bc&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,前门</tag>
+            
+		</result>
+			<result>
+			<name>中国银行新东安市场支行</name>
+			<location>
+				<lat>39.920779</lat>
+				<lng>116.417894</lng>
+			</location>
+							<address>王府井大街138号新东安市场1层141、B1层B139、L141</address>
+										<telephone>(010)65230187</telephone>
+										<uid>5706660808d132b908f5ebdd</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=5706660808d132b908f5ebdd&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国农业银行长安支行</name>
+			<location>
+				<lat>39.910031</lat>
+				<lng>116.413668</lng>
+			</location>
+							<address>北京市东城区正义路3号( 正义宾馆旁边 )</address>
+										<telephone>(010)65250431</telephone>
+										<uid>3b814d3956e2c864f4eafc94</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=3b814d3956e2c864f4eafc94&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国邮政储蓄银行中南海支行</name>
+			<location>
+				<lat>39.924447</lat>
+				<lng>116.388269</lng>
+			</location>
+							<address>西城区府右街乙27号</address>
+										<telephone>(010)63093963</telephone>
+										<uid>6ea7b49d1dc999d06e20b938</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=6ea7b49d1dc999d06e20b938&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                        
+		</result>
+			<result>
+			<name>深圳发展银行宣武支行</name>
+			<location>
+				<lat>39.905577</lat>
+				<lng>116.390257</lng>
+			</location>
+							<address>南新华街甲1号</address>
+										<telephone>(010)63151836</telephone>
+										<uid>90269f45ae0a139ece06a4ff</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=90269f45ae0a139ece06a4ff&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,虎坊桥</tag>
+            
+		</result>
+			<result>
+			<name>招商银行北京崇文门支行</name>
+			<location>
+				<lat>39.903298</lat>
+				<lng>116.420174</lng>
+			</location>
+							<address>东兴隆街58之1-2</address>
+										<telephone>(010)67089468, (010)67089486</telephone>
+										<uid>efa23370783c1790eb1e972e</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=efa23370783c1790eb1e972e&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                        
+		</result>
+			<result>
+			<name>北京银行琉璃厂支行</name>
+			<location>
+				<lat>39.901255</lat>
+				<lng>116.391325</lng>
+			</location>
+							<address>北京市西城区南新华街48号</address>
+										<telephone>(010)63174316</telephone>
+										<uid>50ac42ca51c45ef8aecb6625</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=50ac42ca51c45ef8aecb6625&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,虎坊桥</tag>
+            
+		</result>
+			<result>
+			<name>中国工商银行北京东交民巷分理处</name>
+			<location>
+				<lat>39.90806</lat>
+				<lng>116.413599</lng>
+			</location>
+							<address>东城区正义路30号</address>
+										<telephone>(010)65266185</telephone>
+										<uid>c0d2e8d3cd6e54eaabf0cdbf</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=c0d2e8d3cd6e54eaabf0cdbf&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国建设银行王府井支行</name>
+			<location>
+				<lat>39.92493</lat>
+				<lng>116.416771</lng>
+			</location>
+							<address>北京市.北京市辖区.东城区东城区王府井大街99号世纪大厦</address>
+										<telephone>(010)65273624</telephone>
+										<uid>6f18171713367be6b817e7e6</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=6f18171713367be6b817e7e6&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>交通银行王府井支行</name>
+			<location>
+				<lat>39.917217</lat>
+				<lng>116.418121</lng>
+			</location>
+							<address>东城区王府井大街200号工美大厦1楼</address>
+										<telephone>(010)65289470</telephone>
+										<uid>6059f8fba9cfa740ca09f094</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=6059f8fba9cfa740ca09f094&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,海淀其它</tag>
+            
+		</result>
+			<result>
+			<name>中国邮政储蓄银行正义路支行</name>
+			<location>
+				<lat>39.907536</lat>
+				<lng>116.412478</lng>
+			</location>
+							<address>东城区前门东大街7号(近正义路)</address>
+										<telephone>(010)65247140</telephone>
+										<uid>d179b7833fef455c5a3ac846</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=d179b7833fef455c5a3ac846&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,前门</tag>
+            
+		</result>
+			<result>
+			<name>中国银行北京前门支行</name>
+			<location>
+				<lat>39.908418</lat>
+				<lng>116.401773</lng>
+			</location>
+							<address>西交民巷17号</address>
+										<telephone>(010)66011169, (010)66036020</telephone>
+										<uid>d05961fb76ab0bf6d1f49efc</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=d05961fb76ab0bf6d1f49efc&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,前门</tag>
+            
+		</result>
+			<result>
+			<name>北京银行灯市口支行</name>
+			<location>
+				<lat>39.92479</lat>
+				<lng>116.420847</lng>
+			</location>
+							<address>北京市东城区灯市口大街50号</address>
+										<telephone>(010)65266766</telephone>
+										<uid>505f2ae5cf563cd558f6be37</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=505f2ae5cf563cd558f6be37&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国建设银行王府井储蓄所</name>
+			<location>
+				<lat>39.918456</lat>
+				<lng>116.418207</lng>
+			</location>
+							<address>北京市.北京市辖区.东城区东城区帅府园胡同13号</address>
+										<telephone>(010)65228396</telephone>
+										<uid>3b948d5b0f3bd0acf02d8394</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=3b948d5b0f3bd0acf02d8394&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+			<result>
+			<name>中国银行宣武支行</name>
+			<location>
+				<lat>39.90533</lat>
+				<lng>116.390294</lng>
+			</location>
+							<address>南新华街1号</address>
+										<telephone>(010)63017406</telephone>
+										<uid>33d4666d35284eacd718b7ff</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=33d4666d35284eacd718b7ff&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,虎坊桥</tag>
+            
+		</result>
+			<result>
+			<name>北京银行长城支行</name>
+			<location>
+				<lat>39.921605</lat>
+				<lng>116.420952</lng>
+			</location>
+							<address>北京市.北京市辖区.东城区东城区金鱼胡同18号</address>
+										<telephone>(010)65258088</telephone>
+										<uid>82bd9d88715a7830f7eafcd7</uid>
+			                            <detail_url>http://api.map.baidu.com/place/detail?uid=82bd9d88715a7830f7eafcd7&amp;amp;output=html&amp;amp;source=placeapi</detail_url>
+                                        <tag>银行,王府井/东单</tag>
+            
+		</result>
+	  </results>
+</PlaceSearchResponse>
